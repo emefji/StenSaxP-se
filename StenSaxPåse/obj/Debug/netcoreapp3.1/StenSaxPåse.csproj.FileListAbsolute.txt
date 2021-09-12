@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\bin\Debug\netcoreapp3.1\StenSaxPåse.exe
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\bin\Debug\netcoreapp3.1\StenSaxPåse.deps.json
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\bin\Debug\netcoreapp3.1\StenSaxPåse.runtimeconfig.json
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\bin\Debug\netcoreapp3.1\StenSaxPåse.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\bin\Debug\netcoreapp3.1\StenSaxPåse.dll
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\bin\Debug\netcoreapp3.1\StenSaxPåse.pdb
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\obj\Debug\netcoreapp3.1\StenSaxPåse.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\obj\Debug\netcoreapp3.1\StenSaxPåse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\obj\Debug\netcoreapp3.1\StenSaxPåse.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\obj\Debug\netcoreapp3.1\StenSaxPåse.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\obj\Debug\netcoreapp3.1\StenSaxPåse.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\obj\Debug\netcoreapp3.1\StenSaxPåse.dll
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\obj\Debug\netcoreapp3.1\StenSaxPåse.pdb
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\StenSaxPåse\StenSaxPåse\obj\Debug\netcoreapp3.1\StenSaxPåse.genruntimeconfig.cache
